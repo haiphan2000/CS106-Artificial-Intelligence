@@ -1,0 +1,21 @@
+Fe + 6HNO3 -> Fe(NO3)3 + 3NO2 + H2O
+2Fe(NO3)3 + Cu -> 2Fe(NO3)2 + Cu(NO3)2
+Fe2(SO4)3 + 3Ba(NO3)2 -> 2Fe(NO3)3 + 3BaSO4
+4Fe(NO3)2 + O2 + 4HNO3 -> 4Fe(NO3)3 + 2H2O
+Fe(NO3)3 + 3KOH -> Fe(OH)3 + 3KNO3
+Fe(OH)2 + O2 -> Fe2O3 + H2O
+2Fe + 3Cl2 -> 2FeCl3
+2Fe(OH)3 -> Fe2O3 + H2O
+FeCl2 + Ag2SO4 -> FeSO4 + 2AgCl
+FeSO4 + Ba(NO3)2 -> Fe(NO3)2 + BaSO4
+Fe + 2HCl -> FeCl2 + H2
+2FeCl2 + Cl2 -> 2FeCl3
+Fe3O4 + 8HCl -> FeCl2 + 2FeCl3 + 4H2O
+2FeCl3 + Fe -> 3FeCl2
+Fe(NO3)2 + KOH -> Fe(OH)2 + 2KNO3
+2FeCl3 + 3Ag2SO4 -> Fe2(SO4)3 + 6AgCl
+10FeSO4 + 2KMnO4 + 8H2SO4 -> 5Fe2(SO4)3 + K2SO4 + 2MnSO4 + 8H2O
+Fe + Cu(NO3)2 -> Fe(NO3)2 + Cu
+Fe2(SO4)3 + Fe -> 3FeSO4
+4Fe(OH)2 + O2 + 2H2O -> 4Fe(OH)3
+3Fe + 2O2 -> Fe3O4
